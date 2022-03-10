@@ -1,4 +1,4 @@
-# Youtube_Database_Design
+# Youtube Database Design & Implementation
 
 Database design of youtube platform from scratch by making **Entity Realationship Model** and Implementing it via **PostgreesSQL**.
 
